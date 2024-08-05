@@ -6,3 +6,6 @@ pypdf2
 pypdf
 langchain-groq
 langchain-community
+faiss-cpu
+faiss-gpu
+streamlit-option-menu
