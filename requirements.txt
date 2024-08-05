@@ -5,3 +5,4 @@ langchain-openai
 pypdf2
 pypdf
 langchain-groq
+langchain-community
