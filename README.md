@@ -47,5 +47,5 @@ qa-llm/
 ### Running the QA System
 To start the QA system, run the following command:
 ```sh
-python main.py
+streamlit run main.py
 
